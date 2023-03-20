@@ -1,0 +1,3 @@
+<?php
+$MESS ['QBS.TASKCOMPLETEACTIVITY.TASKID'] = "ID Задачи";
+$MESS ['QBS.TASKCOMPLETEACTIVITY.USERID'] = "Завершить задачу от имени";

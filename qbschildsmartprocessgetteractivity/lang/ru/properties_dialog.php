@@ -1,0 +1,2 @@
+<?php
+$MESS ['QBS_CHILDSMARTPROCESSGETTER_CHILDSELECT'] = "Дочерний Cмарт-процесс";
